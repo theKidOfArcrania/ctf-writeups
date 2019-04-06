@@ -9,7 +9,7 @@ others for finding the initial leak and bug for gissa, as I would've taken
 probably much longer searching for it to find it :) (I was also seriously
 considering to brute 24 bits of ASLR it to solve it...)
 
->I also told myself if I repeated the same mistakes I've made in this CTF and
+I also told myself if I repeated the same mistakes I've made in this CTF and
 others, I'd probably be fired 'cause I made so many of 'em that cost a whole lot
 of time, (though I'd also probably be rehired immediately thereafter, because
 I would be the only one to understand the code :P )
