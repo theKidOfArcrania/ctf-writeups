@@ -1,0 +1,17 @@
+service myst
+{
+        disable = no
+        type = UNLISTED
+        wait = no
+        server = /babyheap
+        socket_type = stream
+        protocol = tcp
+        user = 1000
+        port = 1234
+        flags = REUSE
+        per_source = 5
+        rlimit_cpu = 3
+        nice = 18
+        bind            = 0.0.0.0
+}
+

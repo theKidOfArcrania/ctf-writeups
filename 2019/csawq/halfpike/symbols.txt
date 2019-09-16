@@ -1,0 +1,17 @@
+009a: getmem ;(ACC loc)
+00a1: setmem ;(val, log)
+00a9: main
+0200: main_loop
+0300: check_9e
+0311: check
+061c: init_bank
+0640: read_bank
+0739: puts
+
+9d: correctness
+9e: done
+9f: index
+a0-a5: input
+a6-ab: prog data
+
+r15: bank_ind

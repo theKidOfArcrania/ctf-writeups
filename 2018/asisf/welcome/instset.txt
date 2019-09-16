@@ -1,0 +1,46 @@
+Top level
+****
+00: end: int arg
+01: if_then_else: bool res, int then_off, int else_off
+03: jmp: int offset
+05: assign: int64 dst, int64 content, byte AssignType type
+0f: printf: void* fmt
+10: strcmp: void* s1, void* s2
+
+AssignType
+****
+1: char
+2: int
+3: pointer
+
+CompType
+****
+01: < 
+02: <=
+03: > 
+04: >=
+05: ==
+06: !=
+07: &&
+08: ||
+
+ArgumentType
+****
+01: DerefConst: parg -> int
+02: Constant: carg -> int32
+03: DerefChar: parg -> char
+04: DerefPointer: parg -> int64
+05: Negate: int64 arg -> int64
+06: Compare: CompType type, int64 arg1, int64 arg2 -> bool
+07: DerefRelChar: carg -> char
+08: DerefRelInt: carg -> int32
+09: DerefRelPtr: carg -> int64
+0A: DerefCharArray: int64 base, int32 ind -> char
+0B: DerefIntArray: int64 base, int32 ind -> int32
+0C: DerefPtrArray: int64 base, int32 ind -> int64
+0D: LHSAddress: any_t arg -> int64
+0E: Subtract: int64 arg1, int64 arg2 -> int64
+0F: printf: void* fmt -> int32
+10: strcmp: void* s1, void* s2 -> int32
+11: SConstant: parg -> int64
+12: Add: int64 a1, int64 a2 -> int64

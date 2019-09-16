@@ -1,0 +1,144 @@
+
+State 0
+  00: ASSERT_EQ r4, r6
+  02: ASSERT_EQ r5, r7
+  04: ASSERT_EQ r1, r8
+  06: ASSERT_EQ r2, r9
+  08: ASSERT_EQ r3, r10
+  0a: ASSERT_EQ r0, r11
+  0c: ASSERT_NE r0, r15
+  0e: JMP 0
+  10: ASSERT_NE r0, r0
+  12: ASSERT_NE r0, r0
+  14: ASSERT_NE r0, r0
+  16: ASSERT_NE r0, r0
+  18: ASSERT_NE r0, r0
+  1a: ASSERT_NE r0, r0
+  1c: ASSERT_NE r0, r0
+  1e: ASSERT_NE r0, r0
+
+State 1
+  00: XOR r0, 5
+  02: XOR r1, 1
+  04: XOR r2, 1
+  06: XOR r3, 14
+  08: XOR r4, 4
+  0a: XOR r5, 7
+  0c: ASSERT_EQ r0, r6
+  0e: ASSERT_EQ r1, r7
+  10: ASSERT_EQ r2, r8
+  12: ASSERT_EQ r3, r9
+  14: ASSERT_EQ r4, r10
+  16: ASSERT_EQ r5, r11
+  18: ASSERT_NE r0, r15
+  1a: JMP 0
+  1c: ASSERT_NE r0, r0
+  1e: ASSERT_NE r0, r0
+
+State 2
+  00: ASSERT_EQ r0, r6
+  02: MOV r12, [6]
+  04: MOV r12, [1]
+  06: ADD r12, 1
+  08: MOV [1], r12
+  0a: MOV r12, [2]
+  0c: ADD r12, 1
+  0e: MOV [2], r12
+  10: MOV r12, [6]
+  12: MOV r13, [1]
+  14: SKIPNE r12, r13
+  16: ASSERT_NE r0, r15
+  18: JMP 0
+  1a: ASSERT_NE r0, r0
+  1c: ASSERT_NE r0, r0
+  1e: ASSERT_NE r0, r0
+
+State 3
+  00: XOR r0, 6
+  02: ASSERT_EQ r0, r6
+  04: MOV r12, [1]
+  06: ADD r12, 1
+  08: MOV [1], r12
+  0a: MOV [5], r12
+  0c: MOV r13, [6]
+  0e: ADD r13, 1
+  10: MOV [6], r13
+  12: MOV r13, [11]
+  14: SKIPNE r12, r13
+  16: ASSERT_NE r0, r15
+  18: JMP 0
+  1a: ASSERT_NE r0, r0
+  1c: ASSERT_NE r0, r0
+  1e: ASSERT_NE r0, r0
+
+State 4
+  00: ADD r0, 5
+  02: ADD r1, 1
+  04: ADD r2, 1
+  06: ADD r3, 14
+  08: ADD r4, 4
+  0a: ADD r5, 7
+  0c: ASSERT_EQ r0, 12
+  0e: ASSERT_EQ r1, 6
+  10: ASSERT_EQ r2, 8
+  12: ASSERT_EQ r3, 1
+  14: ASSERT_EQ r4, 9
+  16: ASSERT_EQ r5, 6
+  18: ASSERT_NE r0, r15
+  1a: JMP 0
+  1c: ASSERT_NE r0, r0
+  1e: ASSERT_NE r0, r0
+
+State 5
+  00: ADD r0, 6
+  02: ASSERT_EQ r0, r6
+  04: MOV r12, [1]
+  06: ADD r12, 1
+  08: MOV [1], r12
+  0a: MOV [5], r12
+  0c: MOV r13, [6]
+  0e: ADD r13, 1
+  10: MOV [6], r13
+  12: MOV r13, [11]
+  14: SKIPNE r12, r13
+  16: ASSERT_NE r0, r15
+  18: JMP 0
+  1a: ASSERT_NE r0, r0
+  1c: ASSERT_NE r0, r0
+  1e: ASSERT_NE r0, r0
+
+State 6
+  00: ROL r0, 15 # 7 
+  02: ROL r1, 13 # 2
+  04: ROL r2, 7  # 6
+  06: ROL r3, 6  # 5
+  08: ROL r4, 4  # 5
+  0a: ROL r5, 11 # 15
+  0c: ASSERT_EQ r0, 11
+  0e: ASSERT_EQ r1, 4
+  10: ASSERT_EQ r2, 3
+  12: ASSERT_EQ r3, 5
+  14: ASSERT_EQ r4, 5
+  16: ASSERT_EQ r5, 15
+  18: ASSERT_NE r0, r15
+  1a: JMP 0
+  1c: ASSERT_NE r0, r0
+  1e: ASSERT_NE r0, r0
+
+State 7
+  00: ROL r0, 6
+  02: ASSERT_EQ r0, r6
+  04: MOV r12, [1]
+  06: ADD r12, 1
+  08: MOV [1], r12
+  0a: MOV [5], r12
+  0c: MOV r13, [6]
+  0e: ADD r13, 1
+  10: MOV [6], r13
+  12: MOV r13, [11]
+  14: SKIPNE r12, r13
+  16: ASSERT_NE r0, r15
+  18: JMP 0
+  1a: ASSERT_NE r0, r0
+  1c: ASSERT_NE r0, r0
+  1e: ASSERT_NE r0, r0

@@ -1,0 +1,5922 @@
+%!PS-Adobe-3.0
+%%Title: [No Name]
+%%For: henry
+%%Creator: VIM - Vi IMproved 7.4 (2013 Aug 10)
+%%CreationDate: Sun Nov 25 14:13:29 2018
+%%DocumentData: Clean8Bit
+%%Orientation: Portrait
+%%Pages: (atend)
+%%PageOrder: Ascend
+%%BoundingBox: 61 42 577 752
+%%DocumentMedia: letter 612 792 0 () ()
+%%DocumentNeededResources: font Courier
+%%+ font Courier-Bold
+%%+ font Courier-Oblique
+%%+ font Courier-BoldOblique
+%%DocumentSuppliedResources: procset VIM-Prolog 1.4 1
+%%+ encoding VIM-latin1 1.0 0
+%%Requirements: duplex collate color
+%%EndComments
+%%BeginDefaults
+%%PageResources: font Courier
+%%+ font Courier-Bold
+%%+ font Courier-Oblique
+%%+ font Courier-BoldOblique
+%%PageMedia: letter
+%%EndDefaults
+%%BeginProlog
+%%BeginResource: procset VIM-Prolog
+%%BeginDocument: /usr/share/vim/vim74/print/prolog.ps
+%!PS-Adobe-3.0 Resource-ProcSet
+%%Title: VIM-Prolog
+%%Version: 1.4 1
+%%EndComments
+% Editing of this file is NOT RECOMMENDED.  You run a very good risk of causing
+% all PostScript printing from VIM failing if you do.  PostScript is not called
+% a write-only language for nothing!
+/packedarray where not{userdict begin/setpacking/pop load def/currentpacking
+false def end}{pop}ifelse/CP currentpacking def true setpacking
+/bd{bind def}bind def/ld{load def}bd/ed{exch def}bd/d/def ld
+/db{dict begin}bd/cde{currentdict end}bd
+/T true d/F false d
+/SO null d/sv{/SO save d}bd/re{SO restore}bd
+/L2 systemdict/languagelevel 2 copy known{get exec}{pop pop 1}ifelse 2 ge d
+/m/moveto ld/s/show ld /ms{m s}bd /g/setgray ld/r/setrgbcolor ld/sp{showpage}bd
+/gs/gsave ld/gr/grestore ld/cp/currentpoint ld
+/ul{gs UW setlinewidth cp UO add 2 copy newpath m 3 1 roll add exch lineto
+stroke gr}bd
+/bg{gs r cp BO add 4 -2 roll rectfill gr}bd
+/sl{90 rotate 0 exch translate}bd
+L2{
+/sspd{mark exch{setpagedevice}stopped cleartomark}bd
+/nc{1 db/NumCopies ed cde sspd}bd
+/sps{3 db/Orientation ed[3 1 roll]/PageSize ed/ImagingBBox null d cde sspd}bd
+/dt{2 db/Tumble ed/Duplex ed cde sspd}bd
+/c{1 db/Collate ed cde sspd}bd
+}{
+/nc{/#copies ed}bd
+/sps{statusdict/setpage get exec}bd
+/dt{statusdict/settumble 2 copy known{get exec}{pop pop pop}ifelse
+statusdict/setduplexmode 2 copy known{get exec}{pop pop pop}ifelse}bd
+/c{pop}bd
+}ifelse
+/ffs{findfont exch scalefont d}bd/sf{setfont}bd
+/ref{1 db findfont dup maxlength dict/NFD ed{exch dup/FID ne{exch NFD 3 1 roll
+put}{pop pop}ifelse}forall/Encoding findresource dup length 256 eq{NFD/Encoding
+3 -1 roll put}{pop}ifelse NFD dup/FontType get 3 ne{/CharStrings}{/CharProcs}
+ifelse 2 copy known{2 copy get dup maxlength dict copy[/questiondown/space]{2
+copy known{2 copy get 2 index/.notdef 3 -1 roll put pop exit}if pop}forall put
+}{pop pop}ifelse dup NFD/FontName 3 -1 roll put NFD definefont pop end}bd
+CP setpacking
+(\004)cvn{}bd
+% vim:ff=unix:
+%%EOF
+%%EndDocument
+%%EndResource
+%%BeginResource: encoding VIM-latin1
+%%BeginDocument: /usr/share/vim/vim74/print/latin1.ps
+%!PS-Adobe-3.0 Resource-Encoding
+%%Title: VIM-latin1
+%%Version: 1.0 0
+%%EndComments
+/VIM-latin1[
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/space /exclam /quotedbl /numbersign /dollar /percent /ampersand /quotesingle
+/parenleft /parenright /asterisk /plus /comma /minus /period /slash
+/zero /one /two /three /four /five /six /seven
+/eight /nine /colon /semicolon /less /equal /greater /question
+/at /A /B /C /D /E /F /G
+/H /I /J /K /L /M /N /O
+/P /Q /R /S /T /U /V /W
+/X /Y /Z /bracketleft /backslash /bracketright /asciicircum /underscore
+/grave /a /b /c /d /e /f /g
+/h /i /j /k /l /m /n /o
+/p /q /r /s /t /u /v /w
+/x /y /z /braceleft /bar /braceright /asciitilde /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef /.notdef
+/space /exclamdown /cent /sterling /currency /yen /brokenbar /section
+/dieresis /copyright /ordfeminine /guillemotleft /logicalnot /hyphen /registered /macron
+/degree /plusminus /twosuperior /threesuperior /acute /mu /paragraph /periodcentered
+/cedilla /onesuperior /ordmasculine /guillemotright /onequarter /onehalf /threequarters /questiondown
+/Agrave /Aacute /Acircumflex /Atilde /Adieresis /Aring /AE /Ccedilla
+/Egrave /Eacute /Ecircumflex /Edieresis /Igrave /Iacute /Icircumflex /Idieresis
+/Eth /Ntilde /Ograve /Oacute /Ocircumflex /Otilde /Odieresis /multiply
+/Oslash /Ugrave /Uacute /Ucircumflex /Udieresis /Yacute /Thorn /germandbls
+/agrave /aacute /acircumflex /atilde /adieresis /aring /ae /ccedilla
+/egrave /eacute /ecircumflex /edieresis /igrave /iacute /icircumflex /idieresis
+/eth /ntilde /ograve /oacute /ocircumflex /otilde /odieresis /divide
+/oslash /ugrave /uacute /ucircumflex /udieresis /yacute /thorn /ydieresis]
+/Encoding defineresource pop
+% vim:ff=unix:
+%%EOF
+%%EndDocument
+%%EndResource
+%%EndProlog
+%%BeginSetup
+612 792 0 sps
+1 nc
+T F dt
+T c
+%%IncludeResource: font Courier
+/_F0 /VIM-latin1 /Courier ref
+/F0 10 /_F0 ffs
+%%IncludeResource: font Courier-Bold
+/_F1 /VIM-latin1 /Courier-Bold ref
+/F1 10 /_F1 ffs
+%%IncludeResource: font Courier-Oblique
+/_F2 /VIM-latin1 /Courier-Oblique ref
+/F2 10 /_F2 ffs
+%%IncludeResource: font Courier-BoldOblique
+/_F3 /VIM-latin1 /Courier-BoldOblique ref
+/F3 10 /_F3 ffs
+/UO -1 d
+/UW 0.5 d
+/BO -2.5 d
+%%EndSetup
+%%Page: 1 1
+%%BeginPageSetup
+sv
+0 g
+F0 sf
+%%EndPageSetup
+F1 sf
+([No Name][+]                                                                    Page 1)61.2 744.9 ms
+F0 sf
+0 0 0.376 r
+(.text)61.2 724.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000230)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(kex_ioctl:)s
+F0 sf
+0 g
+(                               )s
+0.498 0.498 0 r
+(# DATA XREF: .rodata:00000624¿)s
+(o)61.2 714.9 ms
+0 0 0.376 r
+(.text)61.2 704.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000230)s
+0 0 0.376 r
+(.text)61.2 694.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000230)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(var_58)s
+F0 sf
+0 g
+(          )s
+0 0.498 0.498 r
+(=)s
+0 g
+( )s
+0 0.498 0.498 r
+(-)s
+0.498 0.125 0.498 r
+(0x58)s
+0 0 0.376 r
+(.text)61.2 684.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000230)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(var_38)s
+F0 sf
+0 g
+(          )s
+0 0.498 0.498 r
+(=)s
+0 g
+( )s
+0 0.498 0.498 r
+(-)s
+0.498 0.125 0.498 r
+(0x38)s
+0 0 0.376 r
+(.text)61.2 674.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000230)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(var_34)s
+F0 sf
+0 g
+(          )s
+0 0.498 0.498 r
+(=)s
+0 g
+( )s
+0 0.498 0.498 r
+(-)s
+0.498 0.125 0.498 r
+(0x34)s
+0 0 0.376 r
+(.text)61.2 664.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000230)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(var_18)s
+F0 sf
+0 g
+(          )s
+0 0.498 0.498 r
+(=)s
+0 g
+( )s
+0 0.498 0.498 r
+(-)s
+0.498 0.125 0.498 r
+(0x18)s
+0 0 0.376 r
+(.text)61.2 654.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000230)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(var_14)s
+F0 sf
+0 g
+(          )s
+0 0.498 0.498 r
+(=)s
+0 g
+( )s
+0 0.498 0.498 r
+(-)s
+0.498 0.125 0.498 r
+(0x14)s
+0 0 0.376 r
+(.text)61.2 644.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000230)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(var_10)s
+F0 sf
+0 g
+(          )s
+0 0.498 0.498 r
+(=)s
+0 g
+( )s
+0 0.498 0.498 r
+(-)s
+0.498 0.125 0.498 r
+(0x10)s
+0 0 0.376 r
+(.text)61.2 634.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000230)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(var_C)s
+F0 sf
+0 g
+(           )s
+0 0.498 0.498 r
+(=)s
+0 g
+( )s
+0 0.498 0.498 r
+(-)s
+0.498 0.125 0.498 r
+(0xC)s
+0 0 0.376 r
+(.text)61.2 624.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000230)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(var_8)s
+F0 sf
+0 g
+(           )s
+0 0.498 0.498 r
+(=)s
+0 g
+( )s
+0 0.498 0.498 r
+(-)s
+0.498 0.125 0.498 r
+(8)s
+0 0 0.376 r
+(.text)61.2 614.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000230)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(var_4)s
+F0 sf
+0 g
+(           )s
+0 0.498 0.498 r
+(=)s
+0 g
+( )s
+0 0.498 0.498 r
+(-)s
+0.498 0.125 0.498 r
+(4)s
+0 0 0.376 r
+(.text)61.2 604.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000230)s
+0 0 0.376 r
+(.text)61.2 594.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000230)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0 0.498 0.498 r
+(-)s
+0.498 0.125 0.498 r
+(0x68)s
+0 0 0.376 r
+(.text)61.2 584.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000234)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(lui)s
+0 g
+(     )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0xBCAB)s
+0 0 0.376 r
+(.text)61.2 574.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000238)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(sw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($s1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_C)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($sp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 564.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000023C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(lui)s
+0 g
+(     )s
+0.188 0.188 0.498 r
+($s1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0 0.498 0.498 r
+(%)s
+F1 sf
+0.498 0.498 0 r
+(hi)s
+F0 sf
+0 g
+(\()s
+F1 sf
+0.498 0.498 0 r
+(__stack_chk_guard)s
+F0 sf
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 554.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000240)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(li)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0xBCABB9FF)s
+0 0 0.376 r
+(.text)61.2 544.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000244)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(sw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($ra)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_4)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($sp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 534.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000248)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addu)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v0)s
+0 0 0.376 r
+(.text)61.2 524.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000024C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(sw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($s2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_8)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($sp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 514.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000250)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(sw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($s0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_10)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($sp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 504.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000254)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(__stack_chk_guard)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 494.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000258)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(sltiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(8)s
+0 g
+(      )s
+0.498 0.498 0 r
+(# switch 8 cases)s
+0 0 0.376 r
+(.text)61.2 484.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000025C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(sw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_14)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($sp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 474.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000260)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(beqz)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(def_278)s
+F0 sf
+0 g
+(     )s
+0.498 0.498 0 r
+(# jumptable 00000278 default c)s
+(ase)61.2 464.9 ms
+0 0 0.376 r
+(.text)61.2 454.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000264)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(lui)s
+0 g
+(     )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0 0.498 0.498 r
+(%)s
+F1 sf
+0.498 0.498 0 r
+(hi)s
+F0 sf
+0 g
+(\()s
+F1 sf
+0.498 0.498 0 r
+(__stack_chk_guard)s
+F0 sf
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 444.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000268)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(sll)s
+0 g
+(     )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(2)s
+0 0 0.376 r
+(.text)61.2 434.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000026C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0 0.498 0.498 r
+(%)s
+F1 sf
+0.498 0.498 0 r
+(lo)s
+F0 sf
+0 g
+(\()s
+F1 sf
+0.498 0.498 0 r
+(jpt_278)s
+F0 sf
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 424.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000270)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addu)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a1)s
+0 0 0.376 r
+(.text)61.2 414.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000274)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0)s
+0 g
+(\()s
+0.188 0.188 0.498 r
+($a1)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 404.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000278)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(jr)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 g
+(              )s
+0.498 0.498 0 r
+(# switch jump)s
+0 0 0.376 r
+(.text)61.2 394.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000027C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($s0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 384.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000280)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# --------------------------------------------------------------------)s
+(-------)61.2 374.9 ms
+0 0 0.376 r
+(.text)61.2 364.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000280)s
+0 0 0.376 r
+(.text)61.2 354.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000280)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(def_278:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+30¿j)s
+0 0 0.376 r
+(.text)61.2 344.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000280)s
+0 g
+(                                          )s
+0.498 0.498 0 r
+(# kex_ioctl+48¿j ...)s
+0 0 0.376 r
+(.text)61.2 334.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000280)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(li)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0xFFFFFFEA)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# jumptable 00000278 default c)s
+(ase)61.2 324.9 ms
+0 0 0.376 r
+(.text)61.2 314.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000284)s
+0 0 0.376 r
+(.text)61.2 304.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000284)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_284:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+EC¿j)s
+0 0 0.376 r
+(.text)61.2 294.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000284)s
+0 g
+(                                          )s
+0.498 0.498 0 r
+(# kex_ioctl+13C¿j ...)s
+0 0 0.376 r
+(.text)61.2 284.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000284)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_14)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($sp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 274.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000288)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0 0.498 0.498 r
+(%)s
+F1 sf
+0.498 0.498 0 r
+(lo)s
+F0 sf
+0 g
+(\()s
+F1 sf
+0.498 0.498 0 r
+(__stack_chk_guard)s
+F0 sf
+0 g
+(\)\()s
+0.188 0.188 0.498 r
+($s1)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 264.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000028C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(bne)s
+0 g
+(     )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_544)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 254.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000290)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($ra)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_4)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($sp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 244.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000294)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($s2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_8)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($sp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 234.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000298)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($s1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_C)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($sp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 224.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000029C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($s0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_10)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($sp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 214.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002A0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(jr)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($ra)s
+0 0 0.376 r
+(.text)61.2 204.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002A4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0 0.376 r
+(.text)61.2 194.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002A8)s
+F0 sf
+0 g
+(  )s
+0.498 0.498 0 r
+(# --------------------------------------------------------------------)s
+(-------)61.2 184.9 ms
+0 0 0.376 r
+(.text)61.2 174.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002A8)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 164.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002A8)s
+F0 sf
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_2A8:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+48¿j)s
+0 0 0.376 r
+(.text)61.2 154.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002A8)s
+F0 sf
+0 g
+(                                          )s
+0.498 0.498 0 r
+(# DATA XREF: .rodata:jpt_278¿o)s
+0 0 0.376 r
+(.text)61.2 144.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002A8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x44)s
+0 g
+(   )s
+0.498 0.498 0 r
+(# jumptable 00000278 case 7)s
+0 0 0.376 r
+(.text)61.2 134.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002AC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x14)s
+0 g
+(\()s
+0.188 0.188 0.498 r
+($gp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 124.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002B0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(or)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 114.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002B4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(and)s
+0 g
+(     )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v1)s
+0 0 0.376 r
+(.text)61.2 104.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002B8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(bnez)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_53C)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 94.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002BC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_58)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 84.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002C0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 74.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002C4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(li)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x44)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# 'D')s
+0 0 0.376 r
+(.text)61.2 64.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002C8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($at)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(__copy_user)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 54.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002D0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($at)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(__copy_user)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 44.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002D4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addu)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($at)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+re sp
+%%PageTrailer
+%%Page: 2 2
+%%BeginPageSetup
+sv
+0 g
+F0 sf
+%%EndPageSetup
+F1 sf
+([No Name][+]                                                                    Page 2)61.2 744.9 ms
+F0 sf
+0 0 0.376 r
+(.text)61.2 724.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002D8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(bnez)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_56C)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 714.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002DC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_10)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 704.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002E0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(kex_find)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 694.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002E8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(kex_find)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 684.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002EC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_58)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 674.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002F0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(beqz)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(def_278)s
+F0 sf
+0 g
+(     )s
+0.498 0.498 0 r
+(# jumptable 00000278 default c)s
+(ase)61.2 664.9 ms
+0 0 0.376 r
+(.text)61.2 654.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002F4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_18)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($sp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 644.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002F8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x3FC)s
+0 g
+(\()s
+0.188 0.188 0.498 r
+($v0)s
+0 g
+(\)  )s
+0.498 0.498 0 r
+(# dest)s
+0 0 0.376 r
+(.text)61.2 634.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000002FC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(li)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x20)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# ' ')s
+0 0 0.376 r
+(.text)61.2 624.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000300)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(sltiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x21)s
+0 0 0.376 r
+(.text)61.2 614.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000304)s
+0 g
+(                 )s
+F1 sf
+0.498 0.498 0 r
+(movn)s
+F0 sf
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 604.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000308)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v0)s
+0 g
+(         )s
+0.498 0.498 0 r
+(# n)s
+0 0 0.376 r
+(.text)61.2 594.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000030C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(memcpy)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 584.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000314)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(memcpy)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 574.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000318)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_38)s
+F0 sf
+0 g
+(  )s
+0.498 0.498 0 r
+(# src)s
+0 0 0.376 r
+(.text)61.2 564.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000031C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(b)s
+0 g
+(       )s
+F1 sf
+0.498 0.498 0 r
+(loc_284)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 554.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000320)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($zero)s
+0 0 0.376 r
+(.text)61.2 544.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000324)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# --------------------------------------------------------------------)s
+(-------)61.2 534.9 ms
+0 0 0.376 r
+(.text)61.2 524.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000324)s
+0 0 0.376 r
+(.text)61.2 514.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000324)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_324:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+48¿j)s
+0 0 0.376 r
+(.text)61.2 504.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000324)s
+0 g
+(                                          )s
+0.498 0.498 0 r
+(# DATA XREF: .rodata:jpt_278¿o)s
+0 0 0.376 r
+(.text)61.2 494.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000324)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($s2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x20)s
+0 g
+(   )s
+0.498 0.498 0 r
+(# jumptable 00000278 case 0)s
+0 0 0.376 r
+(.text)61.2 484.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000328)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_14)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($gp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 474.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000032C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(or)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($s2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 464.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000330)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(and)s
+0 g
+(     )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($s2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v0)s
+0 0 0.376 r
+(.text)61.2 454.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000334)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(bnez)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_518)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 444.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000338)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_58)s
+F0 sf
+0 g
+(  )s
+0.498 0.498 0 r
+(# s)s
+0 0 0.376 r
+(.text)61.2 434.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000033C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 424.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000340)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(li)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x20)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# ' ')s
+0 0 0.376 r
+(.text)61.2 414.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000344)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($at)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(__copy_user)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 404.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000034C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($at)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(__copy_user)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 394.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000350)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addu)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($at)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 384.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000354)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(bnez)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_560)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 374.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000358)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_10)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 364.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000035C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(kex_allocate)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 354.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000364)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(kex_allocate)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 344.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000368)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_58)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 334.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000036C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(bltz)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_284)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 324.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000370)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(nop)s
+0 0 0.376 r
+(.text)61.2 314.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000374)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x14)s
+0 g
+(\()s
+0.188 0.188 0.498 r
+($gp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 304.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000378)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(and)s
+0 g
+(     )s
+0.188 0.188 0.498 r
+($s2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v0)s
+0 0 0.376 r
+(.text)61.2 294.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000037C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(bnez)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($s2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_43C)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 284.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000380)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($s0)s
+0 0 0.376 r
+(.text)61.2 274.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000384)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_58)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 264.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000388)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(li)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x20)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# ' ')s
+0 0 0.376 r
+(.text)61.2 254.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000038C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($at)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(__copy_user)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 244.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000394)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($at)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(__copy_user)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 234.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000398)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(nop)s
+0 0 0.376 r
+(.text)61.2 224.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000039C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(bnez)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_43C)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 214.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003A0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(nop)s
+0 0 0.376 r
+(.text)61.2 204.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003A4)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 194.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003A4)s
+F0 sf
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_3A4:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+204¿j)s
+0 0 0.376 r
+(.text)61.2 184.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003A4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(b)s
+0 g
+(       )s
+F1 sf
+0.498 0.498 0 r
+(loc_284)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 174.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003A8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($zero)s
+0 0 0.376 r
+(.text)61.2 164.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003AC)s
+F0 sf
+0 g
+(  )s
+0.498 0.498 0 r
+(# --------------------------------------------------------------------)s
+(-------)61.2 154.9 ms
+0 0 0.376 r
+(.text)61.2 144.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003AC)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 134.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003AC)s
+F0 sf
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_3AC:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+48¿j)s
+0 0 0.376 r
+(.text)61.2 124.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003AC)s
+F0 sf
+0 g
+(                                          )s
+0.498 0.498 0 r
+(# DATA XREF: .rodata:jpt_278¿o)s
+0 0 0.376 r
+(.text)61.2 114.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003AC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($s2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x28)s
+0 g
+(   )s
+0.498 0.498 0 r
+(# jumptable 00000278 case 1)s
+0 0 0.376 r
+(.text)61.2 104.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003B0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x14)s
+0 g
+(\()s
+0.188 0.188 0.498 r
+($gp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 94.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003B4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(or)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($s2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 84.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003B8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(and)s
+0 g
+(     )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($s2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v0)s
+0 0 0.376 r
+(.text)61.2 74.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003BC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(bnez)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_534)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 64.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003C0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_58)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 54.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003C4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 44.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003C8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(li)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x28)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# '\(')s
+re sp
+%%PageTrailer
+%%Page: 3 3
+%%BeginPageSetup
+sv
+0 g
+F0 sf
+%%EndPageSetup
+F1 sf
+([No Name][+]                                                                    Page 3)61.2 744.9 ms
+F0 sf
+0 0 0.376 r
+(.text)61.2 724.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003CC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($at)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(__copy_user)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 714.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003D4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($at)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(__copy_user)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 704.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003D8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addu)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($at)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 694.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003DC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(bnez)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_554)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 684.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003E0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_10)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 674.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003E4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(kex_find)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 664.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003EC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(kex_find)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 654.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003F0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_58)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 644.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003F4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(beqz)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(def_278)s
+F0 sf
+0 g
+(     )s
+0.498 0.498 0 r
+(# jumptable 00000278 default c)s
+(ase)61.2 634.9 ms
+0 0 0.376 r
+(.text)61.2 624.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003F8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_38)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($sp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 614.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000003FC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(sll)s
+0 g
+(     )s
+0.188 0.188 0.498 r
+($v1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(2)s
+0 0 0.376 r
+(.text)61.2 604.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000400)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addu)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v1)s
+0 0 0.376 r
+(.text)61.2 594.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000404)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0)s
+0 g
+(\()s
+0.188 0.188 0.498 r
+($v0)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 584.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000408)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(sw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_34)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($sp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 574.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000040C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x14)s
+0 g
+(\()s
+0.188 0.188 0.498 r
+($gp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 564.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000410)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(and)s
+0 g
+(     )s
+0.188 0.188 0.498 r
+($s2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v0)s
+0 0 0.376 r
+(.text)61.2 554.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000414)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(bnez)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($s2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_43C)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 544.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000418)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($s0)s
+0 0 0.376 r
+(.text)61.2 534.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000041C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_58)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 524.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000420)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(li)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x28)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# '\(')s
+0 0 0.376 r
+(.text)61.2 514.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000424)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($at)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(__copy_user)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 504.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000042C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($at)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(__copy_user)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 494.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000430)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(nop)s
+0 0 0.376 r
+(.text)61.2 484.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000434)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(beqz)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_3A4)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 474.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000438)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(nop)s
+0 0 0.376 r
+(.text)61.2 464.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000043C)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 454.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000043C)s
+F0 sf
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_43C:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+14C¿j)s
+0 0 0.376 r
+(.text)61.2 444.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000043C)s
+F0 sf
+0 g
+(                                          )s
+0.498 0.498 0 r
+(# kex_ioctl+16C¿j ...)s
+0 0 0.376 r
+(.text)61.2 434.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000043C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(b)s
+0 g
+(       )s
+F1 sf
+0.498 0.498 0 r
+(loc_284)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 424.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000440)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(li)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0xFFFFFFF2)s
+0 0 0.376 r
+(.text)61.2 414.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000444)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# --------------------------------------------------------------------)s
+(-------)61.2 404.9 ms
+0 0 0.376 r
+(.text)61.2 394.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000444)s
+0 0 0.376 r
+(.text)61.2 384.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000444)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_444:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+48¿j)s
+0 0 0.376 r
+(.text)61.2 374.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000444)s
+0 g
+(                                          )s
+0.498 0.498 0 r
+(# DATA XREF: .rodata:jpt_278¿o)s
+0 0 0.376 r
+(.text)61.2 364.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000444)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x28)s
+0 g
+(   )s
+0.498 0.498 0 r
+(# jumptable 00000278 case 2)s
+0 0 0.376 r
+(.text)61.2 354.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000448)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x14)s
+0 g
+(\()s
+0.188 0.188 0.498 r
+($gp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 344.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000044C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(or)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 334.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000450)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(and)s
+0 g
+(     )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v1)s
+0 0 0.376 r
+(.text)61.2 324.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000454)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(bnez)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_534)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 314.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000458)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_58)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 304.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000045C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 294.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000460)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(li)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x28)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# '\(')s
+0 0 0.376 r
+(.text)61.2 284.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000464)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($at)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(__copy_user)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 274.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000046C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($at)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(__copy_user)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 264.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000470)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addu)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($at)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 254.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000474)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(bnez)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_554)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 244.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000478)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_10)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 234.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000047C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(kex_find)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 224.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000484)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(kex_find)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 214.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000488)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_58)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 204.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000048C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(beqz)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(def_278)s
+F0 sf
+0 g
+(     )s
+0.498 0.498 0 r
+(# jumptable 00000278 default c)s
+(ase)61.2 194.9 ms
+0 0 0.376 r
+(.text)61.2 184.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000490)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v0)s
+0 0 0.376 r
+(.text)61.2 174.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000494)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_38)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($sp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 164.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000498)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($zero)s
+0 0 0.376 r
+(.text)61.2 154.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000049C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(sll)s
+0 g
+(     )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(2)s
+0 0 0.376 r
+(.text)61.2 144.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004A0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addu)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a0)s
+0 0 0.376 r
+(.text)61.2 134.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004A4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_34)s
+F0 sf
+0 g
+(\()s
+0.188 0.188 0.498 r
+($sp)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 124.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004A8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(b)s
+0 g
+(       )s
+F1 sf
+0.498 0.498 0 r
+(loc_284)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 114.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004AC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(sw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0)s
+0 g
+(\()s
+0.188 0.188 0.498 r
+($v1)s
+0 g
+(\))s
+0 0 0.376 r
+(.text)61.2 104.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004B0)s
+F0 sf
+0 g
+(  )s
+0.498 0.498 0 r
+(# --------------------------------------------------------------------)s
+(-------)61.2 94.9 ms
+0 0 0.376 r
+(.text)61.2 84.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004B0)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 74.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004B0)s
+F0 sf
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_4B0:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+48¿j)s
+0 0 0.376 r
+(.text)61.2 64.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004B0)s
+F0 sf
+0 g
+(                                          )s
+0.498 0.498 0 r
+(# DATA XREF: .rodata:jpt_278¿o)s
+0 0 0.376 r
+(.text)61.2 54.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004B0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x20)s
+0 g
+(   )s
+0.498 0.498 0 r
+(# jumptable 00000278 case 5)s
+0 0 0.376 r
+(.text)61.2 44.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004B4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(lw)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x14)s
+0 g
+(\()s
+0.188 0.188 0.498 r
+($gp)s
+0 g
+(\))s
+re sp
+%%PageTrailer
+%%Page: 4 4
+%%BeginPageSetup
+sv
+0 g
+F0 sf
+%%EndPageSetup
+F1 sf
+([No Name][+]                                                                    Page 4)61.2 744.9 ms
+F0 sf
+0 0 0.376 r
+(.text)61.2 724.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004B8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(or)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 714.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004BC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(and)s
+0 g
+(     )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v1)s
+0 0 0.376 r
+(.text)61.2 704.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004C0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(bnez)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_518)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 694.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004C4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_58)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 684.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004C8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 674.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004CC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(li)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x20)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# ' ')s
+0 0 0.376 r
+(.text)61.2 664.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004D0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($at)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(__copy_user)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 654.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004D8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($at)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(__copy_user)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 644.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004DC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addu)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($at)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 634.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004E0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(bnez)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_560)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 624.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004E4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_10)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 614.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004E8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(kex_find)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 604.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004F0)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(kex_find)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 594.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004F4)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($sp)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x68)s
+0 0.498 0.498 r
+(+)s
+F1 sf
+0.498 0.498 0 r
+(var_58)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 584.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004F8)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(beqz)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(def_278)s
+F0 sf
+0 g
+(     )s
+0.498 0.498 0 r
+(# jumptable 00000278 default c)s
+(ase)61.2 574.9 ms
+0 0 0.376 r
+(.text)61.2 564.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(000004FC)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v0)s
+0 0 0.376 r
+(.text)61.2 554.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000500)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(kex_free)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 544.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000508)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(kex_free)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 534.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000050C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(nop)s
+0 0 0.376 r
+(.text)61.2 524.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000510)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(b)s
+0 g
+(       )s
+F1 sf
+0.498 0.498 0 r
+(loc_284)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 514.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000514)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($zero)s
+0 0 0.376 r
+(.text)61.2 504.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000518)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# --------------------------------------------------------------------)s
+(-------)61.2 494.9 ms
+0 0 0.376 r
+(.text)61.2 484.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000518)s
+0 0 0.376 r
+(.text)61.2 474.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000518)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_518:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+104¿j)s
+0 0 0.376 r
+(.text)61.2 464.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000518)s
+0 g
+(                                          )s
+0.498 0.498 0 r
+(# kex_ioctl+290¿j)s
+0 0 0.376 r
+(.text)61.2 454.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000518)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(li)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x20)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# ' '  # n)s
+0 0 0.376 r
+(.text)61.2 444.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000051C)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 434.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000051C)s
+F0 sf
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_51C:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl:loc_534)s
+(¿j)61.2 424.9 ms
+0 0 0.376 r
+(.text)61.2 414.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000051C)s
+F0 sf
+0 g
+(                                          )s
+0.498 0.498 0 r
+(# kex_ioctl:loc_53C¿j ...)s
+0 0 0.376 r
+(.text)61.2 404.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000051C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(memset)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 394.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000524)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(memset)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 384.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000528)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(move)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a1)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($zero)s
+0 g
+(       )s
+0.498 0.498 0 r
+(# c)s
+0 0 0.376 r
+(.text)61.2 374.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000052C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(b)s
+0 g
+(       )s
+F1 sf
+0.498 0.498 0 r
+(loc_284)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 364.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000530)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(li)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0xFFFFFFF2)s
+0 0 0.376 r
+(.text)61.2 354.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000534)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# --------------------------------------------------------------------)s
+(-------)61.2 344.9 ms
+0 0 0.376 r
+(.text)61.2 334.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000534)s
+0 0 0.376 r
+(.text)61.2 324.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000534)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_534:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+18C¿j)s
+0 0 0.376 r
+(.text)61.2 314.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000534)s
+0 g
+(                                          )s
+0.498 0.498 0 r
+(# kex_ioctl+224¿j)s
+0 0 0.376 r
+(.text)61.2 304.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000534)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(b)s
+0 g
+(       )s
+F1 sf
+0.498 0.498 0 r
+(loc_51C)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 294.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000538)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(li)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x28)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# '\(')s
+0 0 0.376 r
+(.text)61.2 284.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000053C)s
+F0 sf
+0 g
+(  )s
+0.498 0.498 0 r
+(# --------------------------------------------------------------------)s
+(-------)61.2 274.9 ms
+0 0 0.376 r
+(.text)61.2 264.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000053C)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 254.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000053C)s
+F0 sf
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_53C:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+88¿j)s
+0 0 0.376 r
+(.text)61.2 244.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000053C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(b)s
+0 g
+(       )s
+F1 sf
+0.498 0.498 0 r
+(loc_51C)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 234.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000540)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(li)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($a2)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.498 0.125 0.498 r
+(0x44)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# 'D')s
+0 0 0.376 r
+(.text)61.2 224.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000544)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# --------------------------------------------------------------------)s
+(-------)61.2 214.9 ms
+0 0 0.376 r
+(.text)61.2 204.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000544)s
+0 0 0.376 r
+(.text)61.2 194.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000544)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_544:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+5C¿j)s
+0 0 0.376 r
+(.text)61.2 184.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000544)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(la)s
+0 g
+(      )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(__stack_chk_fail)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 174.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000054C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(jalr)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($v0)s
+0 g
+( ; )s
+F1 sf
+0.498 0.498 0 r
+(__stack_chk_fail)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 164.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000550)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(nop)s
+0 0 0.376 r
+(.text)61.2 154.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000554)s
+0 0 0.376 r
+(.text)61.2 144.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000554)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_554:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+1AC¿j)s
+0 0 0.376 r
+(.text)61.2 134.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000554)s
+0 g
+(                                          )s
+0.498 0.498 0 r
+(# kex_ioctl+244¿j)s
+0 0 0.376 r
+(.text)61.2 124.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000554)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(subu)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 114.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000558)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(b)s
+0 g
+(       )s
+F1 sf
+0.498 0.498 0 r
+(loc_51C)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 104.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000055C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0 0.498 0.498 r
+(-)s
+0.498 0.125 0.498 r
+(0x20)s
+0 0 0.376 r
+(.text)61.2 94.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000560)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# --------------------------------------------------------------------)s
+(-------)61.2 84.9 ms
+0 0 0.376 r
+(.text)61.2 74.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000560)s
+0 0 0.376 r
+(.text)61.2 64.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000560)s
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_560:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+124¿j)s
+0 0 0.376 r
+(.text)61.2 54.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000560)s
+0 g
+(                                          )s
+0.498 0.498 0 r
+(# kex_ioctl+2B0¿j)s
+0 0 0.376 r
+(.text)61.2 44.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000560)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(subu)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+re sp
+%%PageTrailer
+%%Page: 5 5
+%%BeginPageSetup
+sv
+0 g
+F0 sf
+%%EndPageSetup
+F1 sf
+([No Name][+]                                                                    Page 5)61.2 744.9 ms
+F0 sf
+0 0 0.376 r
+(.text)61.2 724.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000564)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(b)s
+0 g
+(       )s
+F1 sf
+0.498 0.498 0 r
+(loc_51C)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 714.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000568)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0 0.498 0.498 r
+(-)s
+0.498 0.125 0.498 r
+(0x28)s
+0 0 0.376 r
+(.text)61.2 704.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000056C)s
+F0 sf
+0 g
+(  )s
+0.498 0.498 0 r
+(# --------------------------------------------------------------------)s
+(-------)61.2 694.9 ms
+0 0 0.376 r
+(.text)61.2 684.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000056C)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 674.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000056C)s
+F0 sf
+0 g
+( )s
+F1 sf
+0.498 0.498 0 r
+(loc_56C:)s
+F0 sf
+0 g
+(                                 )s
+0.498 0.498 0 r
+(# CODE XREF: kex_ioctl+A8¿j)s
+0 0 0.376 r
+(.text)61.2 664.9 ms
+0 g
+(:)s
+F1 sf
+0.498 0.498 0 r
+(0000056C)s
+F0 sf
+0 g
+(                 )s
+0 0.498 0.498 r
+(subu)s
+0 g
+(    )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($v0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0.188 0.188 0.498 r
+($a2)s
+0 0 0.376 r
+(.text)61.2 654.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000570)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(b)s
+0 g
+(       )s
+F1 sf
+0.498 0.498 0 r
+(loc_51C)s
+F0 sf
+0 0 0.376 r
+(.text)61.2 644.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000574)s
+0 g
+(                 )s
+0 0.498 0.498 r
+(addiu)s
+0 g
+(   )s
+0.188 0.188 0.498 r
+($a0)s
+0 0.498 0.498 r
+(,)s
+0 g
+( )s
+0 0.498 0.498 r
+(-)s
+0.498 0.125 0.498 r
+(4)s
+0 0 0.376 r
+(.text)61.2 634.9 ms
+0 g
+(:)s
+0.498 0.125 0.498 r
+(00000574)s
+0 g
+(  )s
+0.498 0.498 0 r
+(# End of function kex_ioctl)s
+re sp
+%%PageTrailer
+%%Trailer
+%%Pages: 5
+%%EOF
+
