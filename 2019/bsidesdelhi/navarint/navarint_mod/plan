@@ -1,0 +1,11 @@
+get a string, set to printf (already alloc'd variable)
+
+heap overflow, overwrite size of big chunk to 0x21
+
+then set another string in printf
+
+now overwrite the size of string, which is right next to the instruction buffer
+
+
+overwrite size 
+

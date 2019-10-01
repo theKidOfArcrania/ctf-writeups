@@ -1,0 +1,18 @@
+0xdeadbeef
+printf = "fake"
+3**************************************************************0x21
+printf = "fake2"
+1*1************************************************************0xdeadbeef
+i = 0
+printf[0x10]
+printf[0x11]
+printf[0x12]
+printf[0x13]
+printf[0x14]
+printf[0x15]
+printf[0x16]
+printf[0x17]
+printf[0x18]
+
+
+
